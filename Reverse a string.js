@@ -1,4 +1,4 @@
-/* Using build-in functions to reverse a string. */
+/* Using built-in functions to reverse a string. */
 function reverseString(str) {
   var myArray = [];
   myArray = str.split("");
