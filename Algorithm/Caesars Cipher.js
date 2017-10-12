@@ -1,6 +1,5 @@
 /* My attempt at the Caesars Cipher ROT13. */
 function rot13(str) { // LBH QVQ VG!
-  let cipherString = "";
   let charNumber = [];
   for(let i = 0; i < str.length; i++) {
     if(str.charCodeAt(i) >= 65 && str.charCodeAt(i) < 78) {
