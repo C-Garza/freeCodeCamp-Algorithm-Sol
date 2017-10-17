@@ -18,7 +18,7 @@ function sumFibs(num) {
   }
   return fibSum;
   
-  function sumFibs(num) {
+function sumFibs(num) {
   let fibSum = 1;
   let first = 0;
   let second = 1;
